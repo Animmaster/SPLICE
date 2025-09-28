@@ -9,7 +9,7 @@
 A simple responsive landing page with smooth animations. Suitable for beginners.  
 
 ## Difficulty Level  
-**Beginner.** The project uses HTML, SCSS (BEM methodology), and vanilla JavaScript.  
+**Beginner.** The project uses HTML, SCSS (BEM methodology), and  JavaScript.  
 There is no build system or framework, so the focus is on layout, styling, and scroll animations.  
 
 ## Features  
